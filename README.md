@@ -1,5 +1,7 @@
 # AR.js - Augmented Reality for the Web
 
+* noticed on a browser based quest for html/js based AR for possible cordova/ionic mobile app editing
+
 <img src="https://github.com/jeromeetienne/AR.js/blob/master/AR.js-1920-1080-HD.png?raw=true" height="200" />
 
 Logo by [Simon Poulter](https://twitter.com/viralinfo)

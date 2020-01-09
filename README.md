@@ -323,14 +323,5 @@ and [AR.js license](https://github.com/jeromeetienne/AR.js/blob/master/LICENSE.t
 
 
 
-donate via google pay
-
-bc1q7ap44v0e8tz506fqvdygd7zztluvrl73pd527q
-
-or 
-
-if you found this useful,
-
-https://www.binance.com/userCenter/deposit.html      << for bitcoin mc/visa
 
 

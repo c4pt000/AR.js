@@ -1,5 +1,15 @@
 # AR.js - Augmented Reality for the Web
 
+(thinking compiz rotate cube desktop file manager? sphere or not style for AR glomp)
+
+glomp as a polymorphic file system floating file manager spinner, a spherical or cubic file system device AR file manager
+
+https://github.com/c4pt000/Glomp
+
+https://github.com/c4pt000/VR-for-VLC
+
+https://github.com/c4pt000/ar-screen
+
 * noticed on a browser based quest for html/js based AR for possible cordova/ionic mobile app editing
 
 <img src="https://github.com/jeromeetienne/AR.js/blob/master/AR.js-1920-1080-HD.png?raw=true" height="200" />

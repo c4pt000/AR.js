@@ -10,6 +10,11 @@ https://github.com/c4pt000/VR-for-VLC
 
 https://github.com/c4pt000/ar-screen
 
+to control the linux desktop?
+windows shown here in AR (not my code)
+<img src="https://github.com/c4pt000/ar-screen/raw/master/animated-out.gif" height="200" />
+
+
 * noticed on a browser based quest for html/js based AR for possible cordova/ionic mobile app editing
 
 <img src="https://github.com/jeromeetienne/AR.js/blob/master/AR.js-1920-1080-HD.png?raw=true" height="200" />

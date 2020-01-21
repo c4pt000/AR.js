@@ -7,6 +7,8 @@ glomp as a polymorphic file system floating file manager spinner, a spherical or
 https://github.com/c4pt000/Glomp
 
 https://github.com/c4pt000/VR-for-VLC
+<img src="https://github.com/c4pt000/AR.js/blob/master/vlc-ar.gif" height="200" />
+
 
 https://github.com/c4pt000/ar-screen
 
